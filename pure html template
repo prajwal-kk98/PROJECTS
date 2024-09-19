@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git hub</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+</head>
+<body>
+    <header>
+        <div class="heading">
+            <h1> <i class="far fa-book"></i>
+           <a href="#">Prajwal/es-6 cheatsheet</a></h1>
+        </div> 
+        
+        
+            <nav>
+                <h3>
+                <i class="far fa-book"></i>
+                <a href="#">Code</a>
+                <i class="far fa-book"></i>
+                <a href="#">Issues</a>
+                <i class="far fa-book"></i>
+                <a href="#">Pull request</a>
+                <i class="far fa-book"></i>
+                <a href="#">Projects</a>
+                <i class="far fa-book"></i>
+                <a href="#">insights</a>
+            </h3>
+            <input type="reset">
+            </nav>
+        </header>
+        <main>
+        <h1>Join Git hub today</h1>
+        <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, sint.</h4>
+
+        <button>Sign in</button>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi vero qui ullam. Eveniet labore non ratione repellendus officia, provident consequatur cupiditate vero quos architecto, minus quibusdam ut natus. Fugit, aspernatur.<10></10></p>
+
+        <ul style="font-size: large;">
+            <li> <i class="far fa-book"></i>
+                <a href="#">Code</a></li>
+                <li>
+                    <i class="far fa-book"></i>
+                    <a href="#">pull request</a>
+                </li>
+                <li>
+                    <i class="far fa-book"></i>
+                    <a href="#">push</a>
+                </li>
+                <li>
+                    <i class="far fa-book"></i>
+                    <a href="#">Insights</a>
+                </li>
+                <br>
+                <li>
+                    <a href="#">1.javasscript</a>
+                </li>
+        </ul>
+        <button>
+            javascript
+        </button>
+        <br>
+
+        <i class="far fa-book"></i>
+        <span>Branch:Master</span>
+        <br>
+        <button>pull request</button>
+        <p><a href="#">find file</a></p>
+
+        <table border="1">
+            <!-- Table header -->
+            <tr>
+                <th>Header 1</th>
+                <th>Header 2</th>
+                <th>Header 3</th>
+            </tr>
+            
+            <!-- First row of data -->
+            <tr>
+                <td>Row 1, Cell 1</td>
+                <td>Row 1, Cell 2</td>
+                <td>Row 1, Cell 3</td>
+            </tr>
+            
+            <!-- Second row of data -->
+            <tr>
+                <td>Row 2, Cell1</td>
+                <td>Row 2, Cell 2</td>
+                <td>Row 2, Cell 3</td>
+            </tr>
+            
+            <!-- Third row of data -->
+            <tr>
+                <td>Row 3, Cell 1</td>
+                <td>Row 3, Cell 2</td>
+                <td>Row 3, Cell 3</td>
+            </tr>
+        </table>
+
+       
+        <input type="datetime-local" name="" id="">
+        <input type="hidden" name="" >
+        <input type="week" name="" id="">
+    </main>
+    <footer></footer>
+</body>
+</html>
